@@ -11,6 +11,7 @@
 		"sourceMap": true,
 		"noUnusedLocals": true,
 		"isolatedModules": true,
+		"resolveJsonModule": true,
 		"typeRoots": ["node_modules/@types"]
 	},
 	"include": ["lib"]
